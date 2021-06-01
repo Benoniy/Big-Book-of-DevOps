@@ -10,4 +10,4 @@
 7. [Terraform](https://github.com/Benoniy/eng84_ben_terraform)
 8. [AWS Autoscaling / Higly available app](https://github.com/Benoniy/eng84_auto_scaling)
 9. [Docker](https://github.com/Benoniy/eng84_docker)
-10.
+10. [Kubernetes](https://github.com/Benoniy/k8_basics)
